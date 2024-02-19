@@ -1,3 +1,2 @@
-# odin-recipes
-- This project is a food recipes site.
-- In this project, basic HTML knowledge will demonstrated.
+# Odin Recipes
+I've created a recipes site to demonstrate my basic HTML and Git skills.
