@@ -9,6 +9,11 @@ body {
     color: rgb(255, 221, 149);
 }
 
+#recipe {
+    text-align: left;
+    color: black;
+}
+
 .recipes {
     font-size: 20px;
     color: rgb(255, 221, 149);
@@ -17,3 +22,9 @@ body {
 .r-text {
     color: rgb(255, 221, 149);
 }
+
+img {
+    border: 3px solid black;
+}
+
+
