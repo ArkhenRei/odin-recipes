@@ -1,0 +1,27 @@
+body {
+  font-family: monospace;
+  background-color: rgb(255, 152, 67);
+}
+
+.recipe {
+  margin: 0 10em;
+  padding: 0 30em;
+}
+
+.title {
+  font-size: 40px;
+  color: rgb(255, 221, 149);
+}
+
+img {
+  border: 4mm ridge rgba(255, 185, 105, 0.589);
+}
+
+.recipe-block {
+  padding-right: 100px;
+  font-size: 20px;
+}
+
+h2 {
+  color: rgb(255, 221, 149);
+}

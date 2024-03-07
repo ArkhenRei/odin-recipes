@@ -4,27 +4,38 @@ body {
 }
 
 .title {
-    font-size: 48px;
+    font-size: 60px;
     text-align: center;
     color: rgb(255, 221, 149);
 }
 
-#recipe {
-    text-align: left;
-    color: black;
+.recipe-div {
+    text-align: center;
+    margin: auto 50em;
 }
 
-.recipes {
+.recipe-list {
+    display: inline-block;
+    border: 4mm ridge rgba(255, 185, 105, 0.589);
+    padding: 30px;
+}
+
+.recipe-link {
     font-size: 20px;
     color: rgb(255, 221, 149);
 }
 
-.r-text {
-    color: rgb(255, 221, 149);
+.recipe-link:hover {
+    text-decoration: none;
+    background: rgb(193, 36, 255);
 }
 
-img {
-    border: 3px solid black;
+.recipe-link:active {
+    background: rgb(121, 0, 168);
 }
 
+li {
+    list-style: none;
+    margin: 8px;
+}
 
